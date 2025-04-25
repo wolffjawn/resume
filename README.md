@@ -70,12 +70,12 @@ Proven track record troubleshooting end-user issues. Deploying MDM solutions (Ja
 #### Bachelor’s Degree <br> Lebanon Valley College <br> *Annville, PA*
 **Major**: Music Recording Technology | **Minor**: Physics
 
-#### Specialty Certificiate <br> Montgomery County Community College <br> *Blue Bell, PA*
+#### Specialty Certificate <br> Montgomery County Community College <br> *Blue Bell, PA*
 **Concentration**: Business Marketing & Management
 
 ### CERTIFICATIONS
 - Agile Foundations
-- Atlassion
+- Atlassian
     - Confluence Fundamentals
     - Jira Fundamentals
 - DevOps Foundations
