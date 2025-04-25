@@ -73,11 +73,22 @@ Proven track record troubleshooting end-user issues. Deploying MDM solutions (Ja
 #### Specialty Certificiate <br> Montgomery County Community College <br> *Blue Bell, PA*
 **Concentration**: Business Marketing & Management
 
-### CERTIFICATIONS (add these)
-https://www.linkedin.com/in/jonwolff/details/certifications/
-
-- Jamf Certified Admin
-- 
+### CERTIFICATIONS
+- Agile Foundations
+- Atlassion
+    - Confluence Fundamentals
+    - Jira Fundamentals
+- DevOps Foundations
+- Git Mastery: Beginner to Expert with GitHub & GitLab
+- Jamf
+    - Certified Admin
+- Microsoft
+    - Microsoft 365 Certified: Fundamentals
+    - Microsoft Certified: Azure Fundamentals
+- SysTrack
+    - L1/L2/L3
+    - Desktop Engineer
+- Technical Writing: How to Write Software Documentation
 
 ***
 
