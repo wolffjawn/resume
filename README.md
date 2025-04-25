@@ -76,9 +76,8 @@ Proven track record troubleshooting end-user issues. Deploying MDM solutions (Ja
 ### CERTIFICATIONS (add these)
 https://www.linkedin.com/in/jonwolff/details/certifications/
 
-- Apple Certified Support Professional (ACSP)
-- Jamf Certified Tech / Admin (if applicable)
-- CompTIA A+, Network+ (optional)
+- Jamf Certified Admin
+- 
 
 ***
 
