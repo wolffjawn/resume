@@ -2,7 +2,7 @@
 
 # Jonathan Wolff
 
-<a href="tel:267-640-5589">Phone</a> | [Email](mailto:jonathancwolff@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/jonwolff/) | [GitHub](https://github.com/wolffjawn)
+[Phone](tel:+12676405589) | [Email](mailto:jonathancwolff@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/jonwolff/) | [GitHub](https://github.com/wolffjawn)
 
 ***
 
