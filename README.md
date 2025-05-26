@@ -2,24 +2,24 @@
 
 # Jonathan Wolff
 
+*creative solutions to technical problems*
+
 [LinkedIn Profile](https://www.linkedin.com/in/jonwolff/) | [GitHub](https://github.com/wolffjawn) | [Email](mailto:jonathancwolff@gmail.com) | Phone: 267.640.5589
 
 ***
 
 ## PROFESSIONAL SUMMARY
 
-*creative solutions to technical problems*
-
 Detail-oriented and certified IT professional with 5+ years experience supporting/managing Macs in Healthcare and Financial environments.
 
-Proven track record troubleshooting end-user issues. Deploying MDM solutions (Jamf), app packaging and deployment, macOS support, and training teammates, users, and the public.
+Proven track record troubleshooting end-user issues, deploying MDM solutions (Jamf), app packaging & deployment, macOS support, and training teammates, users, & the public.
 
 ***
 
 ## TECHNICAL SKILLS
 - **Operating Systems**: macOS, iOS
-- **MDM Tools**: Jamf Pro
-- **Tools**: Apple Remote Desktop, Terminal, Microsoft 365
+- **MDM Tools**: Jamf Pro (Jamf 300 Certified)
+- **Tools**: Atlassian, Microsoft 365, Service Now, Slack,Terminal,Zoom
 - **Scripting**: Bash, Markdown, HTML
 - **Other**: Active Directory, FileVault
 
