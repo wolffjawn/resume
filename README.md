@@ -4,7 +4,7 @@
 
 *creative solutions to technical problems*
 
-[LinkedIn Profile](https://www.linkedin.com/in/jonwolff/) | [GitHub](https://github.com/wolffjawn) | [Email](mailto:jonathancwolff@gmail.com) | Phone: 267.640.5589
+[LinkedIn Profile](https://www.linkedin.com/in/jonwolff/) | [GitHub](https://github.com/wolffjawn) | jonathancwolff@gmail.com | 267.640.5589
 
 ***
 
