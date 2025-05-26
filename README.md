@@ -19,7 +19,7 @@ Proven track record troubleshooting end-user issues, deploying MDM solutions (Ja
 ## TECHNICAL SKILLS
 - **Operating Systems**: macOS, iOS
 - **MDM Tools**: Jamf Pro (Jamf 300 Certified)
-- **Tools**: Atlassian, Microsoft 365, Service Now, Slack, Terminal, Zoom
+- **Tools**: Atlassian, Microsoft 365, Service Now, Slack, Terminal, Visual Studio Code, Zoom
 - **Scripting**: Bash, Markdown, HTML
 - **Other**: Active Directory, FileVault
 
