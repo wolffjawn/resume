@@ -30,22 +30,29 @@ Proven track record troubleshooting end-user issues, deploying MDM solutions (Ja
 ### Mac Technology Engineer
 #### RANDSTAD DIGITAL <br> *Wayne, PA* <br> October 2024 - April 2025
 - Support end users during on-prem to  Jamf Cloud migration for a financial client.
+    - Take user tickets in ServiceNow and create escalation tickets in Jira.
 - Interface with external vendors for technical troubleshooting.
-- Software packaging and patch management utilizing GitHub for version control.
+    - Facilitate calls in Teams, WebEx, Zoom.
+- Software packaging and patch management.
+    - Use Visual Studio Code and integrations with GitHub for version control.
 - Develop and lead the creation of how-to and troubleshooting documentation in GitHub.
 
 ### Mac Solutions Engineer
 #### DIGITAL FIX CONSULTING <br> *Pittsburgh, PA* <br> March 2022 - September 2024
 - Configured, implemented, and maintained a brand-new Jamf Cloud instance for a healthcare client migrating from an on-premise solution, including vetting new software.
 - Implemented macOS Security Compliance Project for security baselines.
+    - Utilize Cherwell for user tickets and Jira for Engineering tasks.
 - Performed software packaging and patch management.
 - Develop cadence of  automated reports in Jamf to monitor device and application statuses.
 - Implemented custom-branded zero-touch automated device enrollment and support tools.
+    - Developed with by ideas from MacAdmins Slack and teammate feedback.
 
 ### Mac Technician II
 #### DIGITAL FIX CONSULTING <br> *Pittsburgh, PA* <br> October 2019 - March 2022
 - Resolved user tickets and served as “Apprentice” to the Engineering team.
-- Developed end user training for troubleshooting basic issues; mitigating concerns, building goodwill, and minimizing tickets. 
+    - ServiceNow and Cherwell used for ticketing.
+- Developed end user training for troubleshooting basic issues; mitigating concerns, building goodwill, and minimizing tickets.
+    - Created and deployed using Microsoft 365 suite.
 - Inventory maintenance.
 
 ### Creative Pro & Expert
