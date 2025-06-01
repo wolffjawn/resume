@@ -1,10 +1,7 @@
-***
-
 # Jonathan Wolff
-
 *creative solutions to technical problems*
 
-[LinkedIn Profile](https://www.linkedin.com/in/jonwolff/) | [GitHub](https://github.com/wolffjawn) | jonathancwolff@gmail.com | 267.640.5589
+[LinkedIn](https://www.linkedin.com/in/jonwolff/) | 267.640.5589 | jonathancwolff@gmail.com
 
 ***
 
@@ -103,5 +100,3 @@ Proven track record troubleshooting end-user issues, deploying MDM solutions (Ja
 - Audio Production
 - Music Recording
 - Guitar & Bass
-
-***
