@@ -1,8 +1,6 @@
 # Jonathan Wolff
 *creative solutions to technical problems*
 
-[LinkedIn](https://www.linkedin.com/in/jonwolff/) | 267.640.5589 | jonathancwolff@gmail.com
-
 ***
 
 ## PROFESSIONAL SUMMARY
