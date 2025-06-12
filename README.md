@@ -28,7 +28,7 @@ Proven track record troubleshooting end-user issues, deploying MDM solutions (Ja
     - Take user tickets in ServiceNow and create escalation tickets in Jira.
 - Interface with external vendors for technical troubleshooting.
     - Facilitate calls in Teams, WebEx, Zoom.
-- Software packaging and patch management.
+- Software packaging and patch management via DevOps.
     - Use Visual Studio Code and integrations with GitHub for version control.
 - Develop and lead the creation of how-to and troubleshooting documentation in GitHub.
 
