@@ -14,6 +14,7 @@ Proven track record troubleshooting end-user issues, deploying MDM solutions (Ja
 ## TECHNICAL SKILLS
 - **Operating Systems**: macOS, iOS, Linux
 - **MDM Tools**: Jamf Pro (Jamf 300 Certified)
+- **Security/Reporting Tools**: macOS Security Compliance Project, SysTrack
 - **Tools**: Atlassian, GitHub, Microsoft 365, Service Now, Slack, Terminal, Visual Studio Code, Zoom
 - **Scripting**: Bash, HTML, Markdown, Swift/SwiftUI
 - **Other**: Active Directory, DevOps, FileVault
