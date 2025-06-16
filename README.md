@@ -15,9 +15,9 @@ Proven track record troubleshooting end-user issues, deploying MDM solutions (Ja
 - **Operating Systems**: macOS, iOS, Linux
 - **MDM Tools**: Jamf Pro (Jamf 300 Certified)
 - **Security/Reporting Tools**: macOS Security Compliance Project, SysTrack
-- **Tools**: Atlassian, GitHub, Service Now, Slack, Terminal, Visual Studio Code, Zoom
+- **Tools**: Atlassian, GitHub, Service Now, Slack, Terminal, Visual Studio Code
 - **Scripting**: Bash, HTML, Markdown, Swift/SwiftUI
-- **Other**: Active Directory, DevOps, FileVault, Microsoft 365
+- **Other**: Active Directory, DevOps, FileVault, Microsoft 365, Zoom
 
 ***
 
