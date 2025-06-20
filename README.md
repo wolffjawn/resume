@@ -17,7 +17,7 @@ Proven track record troubleshooting end-user issues, deploying MDM solutions (Ja
 - **Security/Reporting Tools**: macOS Security Compliance Project, SysTrack (L1/L2/L3 & Engineer certified)
 - **Tools**: Atlassian, GitHub, Service Now, Slack, Terminal, Visual Studio Code
 - **Scripting**: Bash, HTML, Markdown, Swift/SwiftUI
-- **Other**: Active Directory, DevOps, FileVault, Microsoft 365 (Certified: Fundamentals), Software Documentation, Zoom
+- **Other**: Active Directory, DevOps, FileVault, Microsoft 365 (Certified: Fundamentals), Software Documentation, Virtual Machines, Zoom
 
 ***
 
