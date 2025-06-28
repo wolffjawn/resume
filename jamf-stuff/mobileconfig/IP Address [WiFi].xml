@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><extensionAttribute>
+<displayName>IP Address [WiFi]</displayName>
+<description>Report the state IP of a Mac regardless of VPN or On-Site status</description>
+<dataType>string</dataType>
+<scriptContentsMac>#!/bin/sh&#13;
+&#13;
+	result=$(/sbin/ifconfig | /usr/bin/grep "inet 10" | /usr/bin/awk '{ print $2 }' | head -n 1)&#13;
+&#13;
+echo "&lt;result&gt;$result&lt;/result&gt;"</scriptContentsMac>
+</extensionAttribute>
