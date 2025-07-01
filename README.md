@@ -18,7 +18,7 @@ Proven track record troubleshooting end-user issues, deploying MDM solutions (Ja
 - **Tools**: Atlassian, Docker, GitHub, GitHub Desktop, Service Now, Slack, Terminal, Visual Studio Code, Xcode
 - **Open Source Tools (Mac)**: Erase-Install, Escrow Buddy, Nudge, Setup Your Mac, Support App, Suspicious Package
 - **Scripting**: Bash, HTML, Markdown, Swift/SwiftUI
-- **Other**: Active Directory, DevOps, FileVault, Microsoft 365 (Certified: Fundamentals), Software Documentation, VMs, Zoom
+- **Other**: Active Directory, Change Management, DevOps, FileVault, Microsoft 365 (Certified: Fundamentals), Patch Management, Software Documentation, VMs, Zoom
 
 ***
 
