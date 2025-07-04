@@ -13,7 +13,7 @@ Proven track record troubleshooting end-user issues, deploying MDM solutions (Ja
 
 ## TECHNICAL SKILLS
 - **Operating Systems**: macOS, iOS, Linux
-- **MDM Tools**: Jamf Pro (Jamf 300 Certified)
+- **MDM Tools**: Apple Business Manager, Jamf Pro (Jamf 300 Certified)
 - **Security/Reporting Tools**: macOS Security Compliance Project, SysTrack (L1/L2/L3 & Engineer certified)
 - **Tools**: Atlassian, Docker, GitHub, GitHub Desktop, Service Now, Slack, Terminal, Visual Studio Code, Xcode
 - **Open Source Tools (Mac)**: Erase-Install, Escrow Buddy, Nudge, Setup Your Mac, Support App, Suspicious Package
