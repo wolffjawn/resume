@@ -26,28 +26,28 @@ Jamf 300 Certified Mac IT specialist with a proven record of scaling infrastruct
 
 ### Mac Technology Engineer
 #### RANDSTAD DIGITAL <br> *Wayne, PA* <br> October 2024 - April 2025
-- Support end users during on-prem to  Jamf Cloud migration for a financial client.
-    - Take user tickets in ServiceNow and create escalation tickets in Jira.
-- Interface with external vendors for technical troubleshooting.
-    - Facilitate calls in Teams, WebEx, Zoom.
+- Supported end users during migration from on-prem to Jamf Cloud environment.
+    - Take tickets in ServiceNow and create escalations in Jira.
+- Interfaced with external vendors for technical troubleshooting.
+    - Facilitate calls in Apple, Microsoft, Zoom.
 - Software packaging and patch management via DevOps.
     - Use Visual Studio Code and integrations with GitHub for version control.
-- Develop and lead the creation of how-to and troubleshooting documentation in GitHub.
+- Developed and led the creation of how-to and troubleshooting documentation in GitHub.
 
 ### Mac Solutions Engineer
 #### DIGITAL FIX CONSULTING <br> *Pittsburgh, PA* <br> March 2022 - September 2024
 - Configured, implemented, and maintained a brand-new Jamf Cloud instance for a healthcare client migrating from an on-premise solution, including vetting new software.
 - Implemented macOS Security Compliance Project for security baselines.
-    - Utilize Cherwell for user tickets and Jira for Engineering tasks.
 - Performed software packaging and patch management.
-- Develop cadence of  automated reports in Jamf to monitor device and application statuses.
+- Developed cadence of automated reports in Jamf to monitor device and application statuses.
 - Implemented custom-branded zero-touch automated device enrollment and support tools.
-    - Developed with by ideas from MacAdmins Slack and teammate feedback.
+- Developed with by ideas from MacAdmins Slack and teammate feedback.
+- Utilized Cherwell for user tickets and Jira for Engineering tasks.
 
 ### Mac Technician II
 #### DIGITAL FIX CONSULTING <br> *Pittsburgh, PA* <br> October 2019 - March 2022
 - Resolved user tickets and served as “Apprentice” to the Engineering team.
-    - ServiceNow and Cherwell used for ticketing.
+    - Used ServiceNow and Cherwell for ticketing.
 - Developed end user training for troubleshooting basic issues; mitigating concerns, building goodwill, and minimizing tickets.
     - Created and deployed using Microsoft 365 suite.
 - Inventory maintenance.
@@ -59,8 +59,9 @@ Jamf 300 Certified Mac IT specialist with a proven record of scaling infrastruct
 
 ### Store Management
 #### BOSE CORP <br> *Washington, PA* | *King of Prussia, PA* | *Philadelphia, PA* <br> August 2010 - July 2016
-- Managed teams of 6-12 at three separate store locations. Spearheaded hiring, scheduling, team training, customer service, and sales.
+- Managed teams of 6-12 at three separate store locations.
 - Led multiple teams to YOY comp growth, including 112% growth one year at Philadelphia International Airport location.
+- Spearheaded hiring, scheduling, team training, customer service, and sales.
 
 ### Sales Specialist
 #### SONY INC <br> *Pottstown, PA* <br> February 2009 - August 2010
@@ -97,6 +98,6 @@ Jamf 300 Certified Mac IT specialist with a proven record of scaling infrastruct
 ***
 
 ## OTHER SKILLS
-- Audio Production
-- Music Recording
+- Audio Recording
+- Music Production
 - Guitar & Bass
