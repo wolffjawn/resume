@@ -17,7 +17,7 @@ Jamf 300 Certified Mac IT specialist with a proven record of scaling infrastruct
 - **Security/Reporting Tools**: macOS Security Compliance Project, SysTrack (L1/L2/L3 & Engineer certified)
 - **Tools**: Atlassian, Docker, GitHub, GitHub Desktop, Service Now, Slack, Terminal, Visual Studio Code, Xcode
 - **Open Source Tools (Mac)**: Erase-Install, Escrow Buddy, Nudge, Setup Your Mac, Support App, Suspicious Package
-- **Scripting**: Bash, HTML, Markdown, Swift/SwiftUI
+- **Scripting**: Bash, CSS, HTML, Markdown, Swift/SwiftUI
 - **Other**: Active Directory, Change Management, DevOps, FileVault, Microsoft 365 (Certified: Fundamentals), Patch Management, Software Documentation, VMs, Zoom
 
 ***
