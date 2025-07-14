@@ -5,9 +5,9 @@
 
 ## PROFESSIONAL SUMMARY
 
-Detail-oriented and certified IT professional with 5+ years experience supporting/managing Macs in Healthcare and Financial environments.
+Jamf 300 Certified Mac IT specialist with a proven record of scaling infrastructure, improving device compliance, and training teams to support secure, efficient Apple ecosystems.
 
-Proven track record troubleshooting end-user issues, deploying MDM solutions (Jamf), app packaging & deployment, macOS support, and training teammates, users, & the public.
+5+ years experience in Enterprise Healthcare and Financial environments.
 
 ***
 
