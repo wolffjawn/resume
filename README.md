@@ -24,6 +24,9 @@ Jamf 300 Certified Mac IT specialist with a proven record of scaling infrastruct
 
 ## PROFESSIONAL EXPERIENCE
 
+### Soultions Engineer
+#### SECOND SON CONSULTING <br> *Remote* <br> July 2025 - present
+
 ### Mac Technology Engineer
 #### RANDSTAD DIGITAL <br> *Wayne, PA* <br> October 2024 - April 2025
 - Supported end users during migration from on-prem to Jamf Cloud environment.
