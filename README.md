@@ -13,7 +13,7 @@ Jamf 300 Certified Mac IT specialist with a proven record of scaling infrastruct
 
 ## TECHNICAL SKILLS
 - **Operating Systems**: macOS, iOS, Linux
-- **MDM Tools**: Apple Business Manager, Jamf Pro (Jamf 300 Certified)
+- **MDM Tools**: Apple Business Manager, Jamf Pro (Jamf 300 Certified), Mosyle (Certified Admin)
 - **Security/Reporting Tools**: macOS Security Compliance Project, SysTrack (L1/L2/L3 & Engineer certified)
 - **Tools**: Atlassian, ConnectWise, Docker, GitHub, GitHub Desktop, Service Now, Slack, Terminal, Visual Studio Code, Xcode
 - **Open Source Tools (Mac)**: Erase-Install, Escrow Buddy, Nudge, Setup Your Mac, Support App, Suspicious Package
