@@ -5,26 +5,28 @@
 
 ## PROFESSIONAL SUMMARY
 
-Jamf 300 Certified Mac IT specialist with a proven record of scaling infrastructure, improving device compliance, and training teams to support secure, efficient Apple ecosystems.
+Certified Mac IT specialist with a proven record of scaling infrastructure, improving device compliance, and training teams to support secure, efficient Apple ecosystems.
 
-5+ years experience in Enterprise Healthcare and Financial environments.
+6+ years MSP experience.
+
+5+ years experience in Enterprise (Healthcare and Financial) environments.
 
 ***
 
 ## TECHNICAL SKILLS
 - **Operating Systems**: macOS, iOS, Linux
-- **MDM Tools**: Apple Business Manager, Jamf Pro (Jamf 300 Certified), Mosyle (Certified Admin)
-- **Security/Reporting Tools**: macOS Security Compliance Project, SysTrack (L1/L2/L3 & Engineer certified)
+- **Device Management Tools**: Apple Business Manager, Jamf Pro (Jamf 300 Certified), Mosyle (Certified Admin), RMM
+- **Security/Reporting Tools**: macOS Security Compliance Project, Sophos, SysTrack (L1/L2/L3 & Engineer certified)
 - **Tools**: Atlassian, ConnectWise, Docker, GitHub, GitHub Desktop, Service Now, Slack, Terminal, Visual Studio Code, Xcode
 - **Open Source Tools (Mac)**: Erase-Install, Escrow Buddy, Nudge, Setup Your Mac, Support App, Suspicious Package
-- **Scripting**: Bash, CSS, HTML, Markdown, Swift/SwiftUI
-- **Other**: Active Directory, Change Management, DevOps, FileVault, Microsoft 365 (Certified: Fundamentals), Patch Management, Software Documentation, VMs, Zoom
+- **Scripting**: Bash, CSS, HTML, Markdown
+- **Other**: Active Directory, Change Management, DevOps, FileVault, Google Workspace, Microsoft 365 (Certified: Fundamentals), Patch Management, Software Documentation, VMs, VPNs, Zoom
 
 ***
 
 ## PROFESSIONAL EXPERIENCE
 
-### Soultions Engineer
+### Solutions Engineer
 #### SECOND SON CONSULTING <br> *Remote* <br> July 2025 - present
 
 ### Mac Technology Engineer
