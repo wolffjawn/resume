@@ -7,7 +7,7 @@
 
 Certified Mac IT specialist with a proven record of scaling infrastructure, improving device compliance, and training teams to support secure, efficient Apple ecosystems.
 
-6+ years MSP experience. | 5+ years experience in Enterprise (Healthcare and Financial) environments.
+6+ years MSP experience. | 5+ years experience in Enterprise (Healthcare and Financial).
 
 ***
 
