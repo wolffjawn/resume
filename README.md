@@ -26,6 +26,10 @@ Certified Mac IT specialist with a proven record of scaling infrastructure, impr
 
 ### Solutions Engineer
 #### SECOND SON CONSULTING <br> *Remote* <br> July 2025 - present
+- Help Desk Support for MSP clients in a variety of industries.
+- Address tickets in ConnectWise and escalate to senior resources as needed.
+- Assist in development and creation of documentation in Confluence.
+
 
 ### Mac Technology Engineer
 #### RANDSTAD DIGITAL <br> *Wayne, PA* <br> October 2024 - April 2025
