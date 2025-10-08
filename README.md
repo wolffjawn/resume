@@ -14,7 +14,7 @@ Certified Mac IT specialist with a proven record of scaling infrastructure, impr
 ## TECHNICAL SKILLS
 - **Operating Systems**: macOS, iOS, Linux, Windows
 - **Device Management Tools**: Apple Business Manager, Jamf Pro (Jamf 300 Certified), Mosyle (Certified Admin), RMM
-- **Security/Reporting Tools**: macOS Security Compliance Project, Sophos Endpoint Security, SysTrack (L1/L2/L3 & Engineer certified)
+- **Security/Reporting Tools**: macOS Security Compliance Project, Sophos Endpoint Security, SysTrack (L1/L2/L3 & Engineer certified), Watchman Monitoring
 - **Tools**: Atlassian, ConnectWise, Docker, GitHub, GitHub Desktop, Service Now, Slack, Terminal, Visual Studio Code, Xcode
 - **Open Source Tools (Mac)**: Erase-Install, Escrow Buddy, Nudge, Setup Your Mac, Support App, Suspicious Package
 - **Scripting**: Bash, CSS, HTML, Markdown
